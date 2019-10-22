@@ -15,8 +15,7 @@ Clone this repository from GitHub and use the provided file to complete the assi
 ### 2. Import the Movie Mayhem Database
 To import the database, using phpMyAdmin, complete the following instructions.
 
-1. Clone this repository from GitHub and use the provided files to complete the assignment.
-2. Open phpMyAdmin at [http://phpmyadmin.test](http://phpmyadmin.test) (macOS) or [http://localhost/phpmyadmin](http://localhost/phpmyadmin) (Windows)
+1. Open phpMyAdmin at [http://phpmyadmin.test](http://phpmyadmin.test) (macOS) or [http://localhost/phpmyadmin](http://localhost/phpmyadmin) (Windows)
 2. Log into phpMyAdmin using the root username and password
 3. From the phpMyAdmin homepage, click on the "Import" tab found at the top of the page.
 4. Under the "File to import" section, click the "Choose File" button. Choose the `movie_mayhem.sql` file found in this repository.
